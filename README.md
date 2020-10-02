@@ -1,5 +1,3 @@
-README.md
-
 ## Sublime, Git, Github link them together
 
 ### Add the SSH key into the Github and run it in the terminal
@@ -11,8 +9,21 @@ README.md
 You should simply be able to answer 'yes' to fix the error.  
 [Error “The authenticity of host 'github.com' can't be established. RSA key fingerprint ”](https://stackoverflow.com/questions/47707922/error-the-authenticity-of-host-github-com-cant-be-established-rsa-key-finge). 
 
-### 
+### Clone the prooject into the local.  
+[How to clone a Github Gist via SSH protocol?](https://stackoverflow.com/questions/18019142/how-to-clone-a-github-gist-via-ssh-protocol). 
 
+
+
+### Add the Git plugin into the Sublime Tex3. 
+```
+{
+
+	"git_binary": "git安装目录\\Git\\cmd\\git.exe"
+}
+```
+[sublime 安装插件GitGutter报错，git binary cannot be found等等](https://www.shuzhiduo.com/A/x9J2kjE56o/). 
+
+### 
 ### Git could not push the content into the github
 With the Git:commit this step, you just need to type the commit content into the
 commit_edit file, then just close the file, do not save this file, and make sure that all the file in the fold do not select the"save" option,just let the command plate to handle it.
