@@ -1,5 +1,6 @@
 README.md
 
-Sublime Tex3  搭建 Git环
+## Sublime, Git, Github link them together
 
-11111
+## Resource:  
+[Sublime Text3 配置Git环境](https://segmentfault.com/a/1190000008761006). 
