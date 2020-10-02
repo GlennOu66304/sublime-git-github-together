@@ -12,6 +12,11 @@ You should simply be able to answer 'yes' to fix the error.
 ### Clone the prooject into the local.  
 [How to clone a Github Gist via SSH protocol?](https://stackoverflow.com/questions/18019142/how-to-clone-a-github-gist-via-ssh-protocol). 
 
+### GTM executable not found” bullet box will appear
+
+1.You need to use the Package control to install the GTM. 
+[ Every time Sublime text3 is started, a “GTM executable not found” bullet box will appear.
+](https://ddcode.net/2019/05/11/every-time-sublime-text3-is-started-a-gtm-executable-not-found-bullet-box-will-appear/). 
 
 
 ### Add the Git plugin into the Sublime Tex3. 
@@ -27,6 +32,6 @@ You should simply be able to answer 'yes' to fix the error.
 ### Git could not push the content into the github
 With the Git:commit this step, you just need to type the commit content into the
 commit_edit file, then just close the file, do not save this file, and make sure that all the file in the fold do not select the"save" option,just let the command plate to handle it.
-
+[Git error: src refspec master does not match any error: failed to push some refs [duplicate]](https://stackoverflow.com/questions/12452042/git-error-src-refspec-master-does-not-match-any-error-failed-to-push-some-refs). 
 ## Resource:  
 [Sublime Text3 配置Git环境](https://segmentfault.com/a/1190000008761006). 
