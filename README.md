@@ -1,5 +1,22 @@
 ## Sublime, Git, Github link them together
 
+
+# The short cut to push the sublime code into the github
+
+1. clone the project from the github to local and open it in the sublime:  
+```
+git clone git@github.com:GlennOu66304/Full-Stack-Development.git[Project SSH]
+
+
+```
+
+2. Command + shift + p to open the"ga", add the content into the curent file;  
+3. Commnd + shift + p to open the "gc"  commit the change comment;  
+4. Delete the two opened files and go back into the changed files, to process the git push.  
+5. Command + shift + p to open the "gp" to push the change into the github;   
+6. all changes do not save it in the local and check the status in the sublime and github
+
+
 ### 1.Add the SSH key into the Github and run it in the terminal
 1.You need to use "Command+Shift+Dot" shortcut to see the hiden file"id_rsa" and 
 "id_rsa.pua";  
